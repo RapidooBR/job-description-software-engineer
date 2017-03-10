@@ -20,5 +20,5 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - Competitive compensation with a very attractive Silicon Valley-style equity package
 
 <p align="center">
-  Interested? Send us a message ola@rapidoo.com.br
+Interested? Send us a message <b>ola@rapidoo.com.br</b>
 </p>
