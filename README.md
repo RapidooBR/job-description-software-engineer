@@ -25,7 +25,7 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 
 
 <p align="center">
-Interested? Send us a message <b>ola@rapidoo.com.br</b>
+<i>Interested? Send us a message <b>ola@rapidoo.com.br</b></i>
 </p>
 
 <p align="center">
