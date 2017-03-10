@@ -18,3 +18,5 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - First employee in a promising fintech startup with a highly qualified team (trained at Harvard Business School, USP, Goldman Sachs, Elo7 and BankFácil, as well as 7 years of experience in the factoring market) and strong investors
 - You will be working on-site at Google’s Campus São Paulo (close to Paulista Avenue, Brigadeiro station)
 - Competitive compensation with a very attractive Silicon Valley-style equity package
+
+***Send us a message ola@rapidoo.com.br***
