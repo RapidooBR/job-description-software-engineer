@@ -1,3 +1,5 @@
+<img src="https://s3.amazonaws.com/rapidoobr/assets/images/logo_normal_100.png", style='align: center;'>
+
 # Software Engineer
 
 ***Why Rapidoo?***
