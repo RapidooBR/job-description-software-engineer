@@ -1,4 +1,6 @@
-<img src="https://s3.amazonaws.com/rapidoobr/assets/images/logo_normal_100.png", style='align: center;'>
+<p align="center">
+<img src="https://s3.amazonaws.com/rapidoobr/assets/images/logo_normal_100.png">
+</p>
 
 # Software Engineer
 
@@ -21,6 +23,11 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - You will be working on-site at Google’s Campus São Paulo (close to Paulista Avenue, Brigadeiro station)
 - Competitive compensation with a very attractive Silicon Valley-style equity package
 
+
 <p align="center">
 Interested? Send us a message <b>ola@rapidoo.com.br</b>
+</p>
+
+<p align="center">
+Rapidoo | Factoring Online
 </p>
