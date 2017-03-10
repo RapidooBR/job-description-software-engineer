@@ -19,4 +19,6 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - You will be working on-site at Google’s Campus São Paulo (close to Paulista Avenue, Brigadeiro station)
 - Competitive compensation with a very attractive Silicon Valley-style equity package
 
-***Send us a message ola@rapidoo.com.br***
+<p align="center">
+  Interested? Send us a message ola@rapidoo.com.br
+</p>
