@@ -19,8 +19,8 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 
 ***Job Specs***
 
-- One of the first employees in a promising fintech startup with a highly qualified team (trained at Harvard Business School, USP, Goldman Sachs, Elo7 and BankFacil, as well as several years of experience in the factoring market) and strong investors
-- You will be working on-site in a nice coworking space with many other former Google Campus startups, close to Paulista Avenue, Brigadeiro metro station
+- One of the first employees in a promising fintech startup with a highly qualified team (trained at Harvard Business School, USP, Goldman Sachs, Elo7 and Creditas, as well as several years of experience in the factoring market) and strong investors
+- You will be working on-site in a nice coworking space, close to Consolação metro station
 - Competitive compensation with a very attractive Silicon Valley-style equity package
 
 
