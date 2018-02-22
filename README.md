@@ -15,7 +15,7 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - Deep understanding of Ruby and Rails, unit testing and integration testing, API design, and object-oriented design with SOLID principles. Also important to have knowledge of relational databases (we are currently using PostgreSQL).
 - Ability to communicate ideas and work together effectively.
 - In addition to writing code and making technology decisions, you will learn about finance and apply your engineering perspective to solve business problems.
-- You are passionate about lean development with short iterations and constant shipping, and will be able to help us create this culture for our development processes as well as our commercial operations.
+- You believe in lean development with short iterations and constant shipping, and will be able to help us create this culture for our development processes as well as our commercial operations.
 
 ***Job Specs***
 
