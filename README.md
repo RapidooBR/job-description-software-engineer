@@ -12,9 +12,9 @@ We believe that the life of small business owners can be much better and that is
 We offer a digital service where the entrepreneurs can use boletos to charge clients, control and reconcile received payments and anticipating some payments to ensure healthier cash flow.
 
 ### The problem we are solving:
-Even though many small business owners know how to make great products or services, they often don't have enough knowledge on how to manage their business receivables and it can be expensive to hire specialized workers just for this. 
-
 It is crucial for any business to properly manage its receivables, but owning a business demands a lot of work and time that involves: deciding and putting effort into selling to new clients, closing new deals, charging for the good/service offered, confirming that the client paid on the due date, collecting overdue payments, reconciling the payments made and keeping a positive cash flow.
+
+Even though many small business owners know how to make great products or services, they often don't have enough knowledge on how to manage their business receivables and it can be expensive to hire specialized workers just for this. 
 
 ### What we expect from you:
 - To be self-motivated and self-disciplined, and be the type of person that gets excited by the idea of building something big from scratch that will make a real difference in people’s lives.
