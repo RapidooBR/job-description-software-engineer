@@ -6,11 +6,14 @@
 
 ### Our Mission:
 Our mission is to help Brazil’s micro-entrepreneurs grow their businesses and create jobs. 
+
 We believe that the life of small business owners can be much better and that is why we partner with them to help them manage their receivables in the best possible way, ultimately improving the quality of their work and making their daily lives easier. 
+
 We offer a digital service where the entrepreneurs can use boletos to charge clients, control and reconcile received payments and anticipating some payments to ensure healthier cash flow.
 
 ### The problem we are solving:
 Even though many small business owners know how to make great products or services, they often don't have enough knowledge on how to manage their business receivables and it can be expensive to hire specialized workers just for this. 
+
 It is crucial for any business to properly manage its receivables, but owning a business demands a lot of work and time that involves: deciding and putting effort into selling to new clients, closing new deals, charging for the good/service offered, confirming that the client paid on the due date, collecting overdue payments, reconciling the payments made and keeping a positive cash flow.
 
 ### What we expect from you:
