@@ -17,7 +17,8 @@ It is crucial for any business to properly manage its receivables, but owning a 
 Even though many small business owners know how to make great products or services, they often don't have enough knowledge on how to manage their business receivables and it can be expensive to hire specialized workers just for this. 
 
 ### What we expect from you:
-- To be self-motivated and self-disciplined, and be the type of person that gets excited by the idea of building something big from scratch that will make a real difference in people’s lives.
+- To be passionate about using technology to create solutions that will make a real difference in people’s lives.
+- To be self-motivated and self-disciplined.
 - To understand object-oriented design with SOLID principles, the test pyramid (unit, integration, end-to-end) and API design. 
 - To be skilled at developing clean code in at least one OO programming language (Java, C#, Python, Ruby, etc).
 - To be proficient in SQL and have knowledge of relational databases.
