@@ -71,7 +71,6 @@ Even though many small business owners know how to make great products or servic
 - Learning environment with great culture;
 - Competitive compensation, including the opportunity to earn equity ownership in Rapidoo;
 - Opportunity to work side-by-side with founders and executives, participate in strategic decisions and help to build a company that you are proud of.
-- You will be working on-site in a nice office, close to República metro station
 
 <p align="center">
 <i>Interested? Send us a message <b>jobs@rapidoo.com.br</b></i>
