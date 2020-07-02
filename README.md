@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3.amazonaws.com/rapidoobr/assets/images/logo_normal_100.png">
+<img src="https://rapidoobr.s3.amazonaws.com/assets/images/logo-rapidoo-2.svg">
 </p>
 
 ## Software Engineer @ Rapidoo
